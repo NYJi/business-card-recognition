@@ -10,13 +10,13 @@ Especially, if the card was taken on background that has a simillar color of car
 
 Thus, This is a personal project that is recognition of business card about various situation.
 
-      #### ☑️ Only recognize card section even though the taken pictures have 4 kinds of circumstances
-              ###### 1. case of easy to detect edges of card
-              ###### 2. case of the brightness of light make hard to detect card directly
-              ###### 3. case of blindness a part of card section by hands
-              ###### 4. 
-              
-      #### ☑️ (+Optional) Detect the text on the business card
+####       ☑️ Only recognize card section even though the taken pictures have 4 kinds of circumstances
+######             1. case of easy to detect edges of card
+######             2. case of the brightness of light make hard to detect card directly
+######             3. case of blindness a part of card section by hands
+######             4. 
+
+####       ☑️(+Optional) Detect the text on the business card
 
 
 ## 📌 METHODS
