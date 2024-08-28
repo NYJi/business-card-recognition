@@ -21,7 +21,7 @@ Thus, This is a personal project that is recognition of business card about vari
 <br>
 <br>
 <br>
-_________________________________________________________________________________________________________________________
+
 ## 📌 METHODS
 
 
