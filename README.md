@@ -18,7 +18,10 @@ Thus, This is a personal project that is recognition of business card about vari
 
 ####       ☑️(+Optional) Detect the text on the business card
 
-
+<br>
+<br>
+<br>
+_________________________________________________________________________________________________________________________
 ## 📌 METHODS
 
 
