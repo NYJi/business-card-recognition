@@ -25,4 +25,7 @@ Thus, This is a personal project that is recognition of business card about vari
 ## 📌 METHODS
 
 
+
 ## 📌 RESULTS
+
+<img src = ''>
