@@ -14,7 +14,7 @@ Thus, This is a personal project that is recognition of business card about vari
 ######             1. case of easy to detect edges of card
 ######             2. case of the brightness of light make hard to detect card directly
 ######             3. case of blindness a part of card section by hands
-######             4. 
+######             4. case of the white color of card was taken on the white background
 
 ####       ☑️(+Optional) Detect the text on the business card
 
@@ -23,8 +23,12 @@ Thus, This is a personal project that is recognition of business card about vari
 <br>
 
 ## 📌 METHODS
+Using OpenCV, gonna detect business card about the 4 kinds of cases.
+And then, I constructed the filtering algorithms along 4 kinds of cases.
 
+- Contouring
 
+**(+ Optional prj.)** 
 
 ## 📌 RESULTS
 
