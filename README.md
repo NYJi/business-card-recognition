@@ -27,9 +27,19 @@ Using OpenCV, gonna detect business card about the 4 kinds of cases.
 And then, I constructed the filtering algorithms along 4 kinds of cases.
 
 - Contouring
+- Binary
+- Sharpen
+- etc....
 
 **(+ Optional prj.)** 
+Detect a text on the detected business card
+
+- No_sharpening
+- Sharpening
+- cv2.INTER_CUBIC
+<br>
 
 ## 📌 RESULTS
+<img src = 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbkVmvS%2FbtsKbyEWtAQ%2Fb3wmkg8L2ZxdmFhG9BbBJk%2Fimg.png'>
 
-<img src = ''>
+
