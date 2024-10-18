@@ -32,7 +32,7 @@ And then, I constructed the filtering algorithms along 4 kinds of cases.
 - etc....
 
 **(+ Optional prj.)** 
-Detect a text on the detected business card
+Detect texts on the detected business card
 
 - No_sharpening
 - Sharpening
@@ -40,6 +40,12 @@ Detect a text on the detected business card
 <br>
 
 ## 📌 RESULTS
+#### ☑️ Detected business cards
 <img src = 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbkVmvS%2FbtsKbyEWtAQ%2Fb3wmkg8L2ZxdmFhG9BbBJk%2Fimg.png'>
+<br>
+<br>
+
+#### ☑️ Detected Texts on the detected card
+<img src = 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcJD8fl%2FbtsKb59NUNp%2Fm6JJQGTHz9VzKuRIbADUw0%2Fimg.png'>
 
 
