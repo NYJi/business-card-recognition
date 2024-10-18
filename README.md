@@ -20,7 +20,6 @@ Thus, This is a personal project that is recognition of business card about vari
 
 <br>
 <br>
-<br>
 
 ## 📌 METHODS
 Using OpenCV, gonna detect business card about the 4 kinds of cases.
