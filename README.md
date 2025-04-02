@@ -45,6 +45,6 @@ Detect texts on the detected business card
 <br>
 
 #### ☑️ Detected Texts on the detected card
-<img src = 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcJD8fl%2FbtsKb59NUNp%2Fm6JJQGTHz9VzKuRIbADUw0%2Fimg.png'>
+<img src = 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqdaVx%2FbtsM6csgeNV%2FuzArKJslik3rkzU4dcic0k%2Fimg.png'>
 
 
